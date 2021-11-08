@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* You can add global styles to this file, and also import other style files */
+body{
+  background-color: #F3EFE9;
+  margin: 0 !important;
+}
+html{
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
