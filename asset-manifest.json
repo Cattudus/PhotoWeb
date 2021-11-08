@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PhotoWeb/static/css/main.6e6522cb.chunk.css",
-    "main.js": "/PhotoWeb/static/js/main.ee6330f3.chunk.js",
-    "main.js.map": "/PhotoWeb/static/js/main.ee6330f3.chunk.js.map",
+    "main.js": "/PhotoWeb/static/js/main.c3db818b.chunk.js",
+    "main.js.map": "/PhotoWeb/static/js/main.c3db818b.chunk.js.map",
     "runtime-main.js": "/PhotoWeb/static/js/runtime-main.fc8e3eb7.js",
     "runtime-main.js.map": "/PhotoWeb/static/js/runtime-main.fc8e3eb7.js.map",
     "static/js/2.7007fda7.chunk.js": "/PhotoWeb/static/js/2.7007fda7.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fc8e3eb7.js",
     "static/js/2.7007fda7.chunk.js",
     "static/css/main.6e6522cb.chunk.css",
-    "static/js/main.ee6330f3.chunk.js"
+    "static/js/main.c3db818b.chunk.js"
   ]
 }
