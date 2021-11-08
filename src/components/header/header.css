@@ -13,7 +13,7 @@
 }
 
 .small-header{
-    height: 120px;
+    height: 100px;
     display: grid;
     grid-template-columns: 10% 80% 10%;
 }
@@ -21,7 +21,6 @@
     height: 0.01rem;
     width: 70%;
     background-color: #867e7a;
-    opacity: 75%;
 }
 .vl{
     padding-top: 0.3rem;
@@ -45,6 +44,7 @@
 .nav-button{
     display: flex;
     justify-content: center;
+    align-items: center;
     color: black;
     background-color: #e7e2dd;
     border: none;
