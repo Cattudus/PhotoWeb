@@ -29,6 +29,10 @@ a{
   color: #434242;
   font-size: 22px;
 }
+.mobile{
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
 .body{
   padding-right: 30rem;
   padding-left: 30rem;

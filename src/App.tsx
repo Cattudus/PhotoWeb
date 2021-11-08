@@ -1,34 +1,29 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import useWindowDimensions from "./utils/layout/layout";
+import {Header} from "./components/header/header";
+
+
 
 function App() {
+
+    const { width } = useWindowDimensions();
+    let vh  = '75vh';
+    function bodyPadding(width: any){
+      if(width <= 1400){
+          vh = '85vh';
+          return 'mobile'
+      } else {
+          vh  = '75vh';
+          return 'body'
+      }
+    }
   return (
     <div className="App">
-      <div style={{height: '25vh'}}>
-        <div className="header">
-          <div className="header-text">
-            Geli Knaeble Prochazková <span style={{fontSize: '60px'}}>|</span> Wedding photographer
-          </div>
-        </div>
-        <div style={{display: 'flex',justifyContent: 'center'}}>
-          instagram facebook ....
-        </div>
-        <div className="navigation">
-          <div className="nav-item">
-            <a>Home</a>
-          </div>
-          <div className="nav-item">
-            <a href="#AboutMe">About Me</a>
-          </div>
-          <div className="nav-item">
-            <a>My Work</a>
-          </div>
-        </div>
-      </div>
-      <img style={{height: '75vh', width: '100vw',objectFit: 'cover'}}
+        <Header/>
+      <img style={{height: vh, width: '100vw',objectFit: 'cover'}}
            src="https://www.eachotherweddingsandevents.com/test/wp-content/uploads/2020/04/slide_home.jpg"/>
-        <div className="body">
+        <div className={bodyPadding(width)}>
           <div id="AboutMe" className="about-me">
             <div style={{paddingTop: '1rem',
   paddingBottom: '1rem'}}>
