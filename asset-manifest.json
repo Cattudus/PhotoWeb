@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PhotoWeb/static/css/main.b43af3b2.chunk.css",
+    "main.css": "/PhotoWeb/static/css/main.d087b3f5.chunk.css",
     "main.js": "/PhotoWeb/static/js/main.3012696d.chunk.js",
     "main.js.map": "/PhotoWeb/static/js/main.3012696d.chunk.js.map",
     "runtime-main.js": "/PhotoWeb/static/js/runtime-main.5f5d68d7.js",
@@ -10,13 +10,13 @@
     "static/js/3.8a67379f.chunk.js": "/PhotoWeb/static/js/3.8a67379f.chunk.js",
     "static/js/3.8a67379f.chunk.js.map": "/PhotoWeb/static/js/3.8a67379f.chunk.js.map",
     "index.html": "/PhotoWeb/index.html",
-    "static/css/main.b43af3b2.chunk.css.map": "/PhotoWeb/static/css/main.b43af3b2.chunk.css.map",
+    "static/css/main.d087b3f5.chunk.css.map": "/PhotoWeb/static/css/main.d087b3f5.chunk.css.map",
     "static/js/2.02736479.chunk.js.LICENSE.txt": "/PhotoWeb/static/js/2.02736479.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5f5d68d7.js",
     "static/js/2.02736479.chunk.js",
-    "static/css/main.b43af3b2.chunk.css",
+    "static/css/main.d087b3f5.chunk.css",
     "static/js/main.3012696d.chunk.js"
   ]
 }
