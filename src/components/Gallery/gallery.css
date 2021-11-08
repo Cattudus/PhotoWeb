@@ -60,10 +60,10 @@
 }
 
 .container:hover .overlay {
-    opacity: 75%;
+    opacity: 0.75;
 }
 .container-small:hover .overlay-small {
-    opacity: 75%;
+    opacity: 0.75;
 }
 .text {
     color: white;
