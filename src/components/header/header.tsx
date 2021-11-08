@@ -96,7 +96,7 @@ export const HeaderGallery = () => {
             </div>
             <div className="navigation">
                 <div className="nav-item">
-                    <a href="home">Home</a>
+                    <a href="PhotoWeb">Home</a>
                 </div>
             </div>
         </div>)
@@ -106,8 +106,8 @@ export const HeaderGallery = () => {
                 <button className="nav-button" onClick={showPopUp}><MenuOutlined style={{fontSize: '18px'}}/></button>
             </div>
             <div id="myLinks" className="navigation-popup">
-                <div className="nav-item" style={{paddingBottom: '10px'}}>
-                    <a href="home">Home</a>
+                <div className="nav-item" style={{paddingBottom: '10px', paddingTop:'10px'}}>
+                    <a href="PhotoWeb">Home</a>
                 </div>
             </div>
             <div className="header-text-small">
