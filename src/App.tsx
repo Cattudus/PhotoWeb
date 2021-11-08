@@ -3,6 +3,7 @@ import './App.css';
 import useWindowDimensions from "./utils/layout/layout";
 import {Header} from "./components/header/header";
 import { Gallery } from './components/Gallery/gallery';
+import {Footer} from "./components/Footer/footer";
 
 
 function App() {
@@ -81,11 +82,7 @@ function App() {
             </div>
 
 
-            <div className="footer">
-                <div>
-                    Created by Petr Procházka :)
-                </div>
-            </div>
+            <Footer/>
 
         </div>
     );
