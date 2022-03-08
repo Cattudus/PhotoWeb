@@ -70,7 +70,7 @@ function App() {
                 </div>
                 <div style={{display: 'flex', justifyContent: 'center'}}>
                     <img style={{height: '20rem', width: '20rem', objectFit: 'cover'}}
-                         src="https://scontent-prg1-1.xx.fbcdn.net/v/t1.6435-9/241123596_5148662648483345_2756332344172430026_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rLS1JWxM5JQAX9WAVK_&_nc_ht=scontent-prg1-1.xx&oh=477be9ad1e536fdc7cfd30c7e54defb3&oe=61AFA961"/>
+                         src="https://scontent-prg1-1.xx.fbcdn.net/v/t39.30808-6/273563562_5711172472232357_2746644246343823190_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wnNbtlec8X4AX9fND4R&_nc_ht=scontent-prg1-1.xx&oh=00_AT-gqEEekqjgMw9QRcwp2yq4DEmhp0lXOQeo9GdzKg4ryQ&oe=622C1DF6"/>
                 </div>
 
                 <div id="myWork">

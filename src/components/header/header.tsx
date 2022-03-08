@@ -32,13 +32,13 @@ export const Header = () => {
             </div>
             <div className="navigation">
                 <div className="nav-item">
-                    <a>Home</a>
-                </div>
-                <div className="nav-item">
                     <a href="#AboutMe">About Me</a>
                 </div>
                 <div className="nav-item">
                     <a href="#myWork">My Work</a>
+                </div>
+                <div className="nav-item">
+                    <a href="">Prices</a>
                 </div>
             </div>
         </div>)

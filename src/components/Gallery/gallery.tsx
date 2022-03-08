@@ -40,7 +40,7 @@ export const Gallery = () => {
             </div>
             <div className={'container' + getImageSizes(width)}>
                 <img className={getImageSize(width)} src="https://image.freepik.com/free-photo/wedding-preparation-dressing-up-bride-wedding-ceremony-front-view-wedding-attire_8353-11483.jpg"/>
-                <Link to="/WeddingCeremony" >
+                <Link to="/WeddingPreparation" >
                 <div className={'overlay' + getImageSizes(width)}>
                     <div className="text">Wedding Preparations</div>
                 </div>
@@ -48,7 +48,7 @@ export const Gallery = () => {
             </div>
             <div className={'container' + getImageSizes(width)}>
                 <img className={getImageSize(width)}  src="https://www.brides.com/thmb/yQ5WEDP-6gecSmGEF9clYIo5Yxs=/3101x3101/filters:fill(auto,1)/ariel-and-alissa-wedding29-a1766c0c4c35406381bed3dee27d7e1a.jpeg"/>
-                <Link to="/WeddingCeremony" >
+                <Link to="/YouTwo" >
                 <div className={'overlay' + getImageSizes(width)}>
                     <div className="text">You Two</div>
                 </div>
@@ -56,7 +56,7 @@ export const Gallery = () => {
             </div>
             <div className={'container' + getImageSizes(width)}>
                 <img className={getImageSize(width)}  src="https://www.yourperfectweddingphotographer.co.uk/wp-content/uploads/2018/12/YPWP-happy-emotion.jpg"/>
-                <Link to="/WeddingCeremony" >
+                <Link to="/WeddingEmotions" >
                 <div className={'overlay' + getImageSizes(width)}>
                     <div className="text">Wedding Emotions</div>
                 </div>
@@ -64,7 +64,7 @@ export const Gallery = () => {
             </div>
             <div className={'container' + getImageSizes(width)}>
                 <img className={getImageSize(width)}  src="https://www.thespruce.com/thmb/_lAFWHqMqzdLIo0yfaUyb-L6-mQ=/2123x1415/filters:fill(auto,1)/GettyImages-544490573-5653f4e63df78c6ddf16fdd1.jpg"/>
-                <Link to="/WeddingCeremony" >
+                <Link to="/WeddingCelebration" >
                 <div className={'overlay' + getImageSizes(width)}>
                     <div className="text">Wedding Celebration</div>
                 </div>
@@ -72,7 +72,7 @@ export const Gallery = () => {
             </div>
             <div className={'container' + getImageSizes(width)}>
                 <img className={getImageSize(width)}  src="https://images.squarespace-cdn.com/content/v1/56aaa8964bf11837b0fa2222/1458638785633-M56UIDF24I7GKGL45SAX/shutterstock_282028181.jpg?format=1000w"/>
-                <Link to="/WeddingCeremony" >
+                <Link to="/YoungOnes" >
                 <div className={'overlay' + getImageSizes(width)}>
                     <div className="text">Young Ones</div>
                 </div>
